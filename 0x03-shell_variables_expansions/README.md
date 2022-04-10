@@ -23,3 +23,6 @@
      * Your script file should contain maximum 64 characters 
 13. 13-print_float: a script that prints a number with two decimal places, followed by a new line.
     * The number will be stored in the environment variable NUM.
+14. 100-decimal_to_hexadecimal; script that converts a number from base 10 to base 16.
+    * he number in base 10 is stored in the environment variable DECIMAL
+    * base 16 to new line 
